@@ -76,5 +76,7 @@
   </platform>
   <icon src="resources/ios/icon/icon-40@2x.png"/>
 
+  <gap:platform name="android" />
+
   <gap:plugin name="org.apache.cordova.camera" />
 </widget>
